@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckInOut</string>
+    <array name="app_option">
+        <item>LogIn</item>
+        <item>Edit</item>
+    </array>
+</resources>
